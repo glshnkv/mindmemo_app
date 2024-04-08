@@ -20,9 +20,11 @@ dependencies:
   hive: ^2.2.3
   hive_flutter: ^1.1.0
   chip_list: ^2.4.4+8
+  sliding_up_panel: ^2.0.0+1
   firebase_messaging: ^14.2.2
   firebase_core: ^2.21.0
   firebase_remote_config: ^4.3.3
+
 
 
   cupertino_icons: ^1.0.6
@@ -45,6 +47,10 @@ flutter:
   assets:
      - assets/images/
      - assets/images/tab-icons/
+     - assets/images/onboarding/
+     - assets/images/news/
+     - assets/images/settings/
+     - assets/images/notes/
 
 
   fonts:
